@@ -4,7 +4,7 @@
 
 # Data Structures
 <p align="justify">
-This repository holds implementation of various Sorting, Searching and Data Structures written in the C programming language, based on a course named <em>Data Structures</em>, that I completed during my second year of studies in the Computer Engineering and Informatics Department at the University of Patras. 
+This repository holds the implementation of various Sorting, Searching and Data Structures written in the C programming language, based on a course named <em>Data Structures</em>, that I completed during my second year of studies in the Computer Engineering and Informatics Department at the University of Patras. 
 </p>
 
 # Structure
